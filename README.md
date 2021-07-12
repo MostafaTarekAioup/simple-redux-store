@@ -2,13 +2,7 @@
 
 ## Live Preview
 
-### New Design
-
-#### https://gamer-station-v2.netlify.app/
-
-### Old Design
-
-#### https://gamer-station.netlify.app/
+#### https://simple-redux-store.netlify.app/
 
 ## How to run Project
 
